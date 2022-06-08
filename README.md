@@ -6,3 +6,6 @@ Deze start is op 7-6-2022 gemaakt door Chris
 Voor de snelle edit kun je hem zelfs vanuit je browser wijzigen. Maar de uitdaging is om hem bijvoorbeeld via de Command Line of via Visual Studio Code voor elkaar te krijgen.
 
 PS: Wist je dat je Markdown kan *gebruiken* voor **tekst opmaak**? URLs kunnen ook, bijvoorbeeld naar de tutorial van [git in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/versioncontrol)?
+
+# 08-06-2022 11:04 Monique:
+Het duurde even voordat ik het bestand ook daadwerkelijk kon openen maar is dan toch gelukt.
