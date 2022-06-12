@@ -9,3 +9,6 @@ PS: Wist je dat je Markdown kan *gebruiken* voor **tekst opmaak**? URLs kunnen o
 
 # 08-06-2022 11:04 Monique:
 Het duurde even voordat ik het bestand ook daadwerkelijk kon openen maar is dan toch gelukt.
+
+## 12-06-2022 17:00 Anneke:
+Ik heb het bestand gedownload en bewerkt in Visual Studio Code, maar het lukt me nog niet om het via Git hier weer te plaatsen, dus voor nu maar even ter plekke bewerkt :D
