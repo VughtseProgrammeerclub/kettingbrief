@@ -12,3 +12,6 @@ Het duurde even voordat ik het bestand ook daadwerkelijk kon openen maar is dan 
 
 ## 12-06-2022 17:00 Anneke:
 Ik heb het bestand gedownload en bewerkt in Visual Studio Code, maar het lukt me nog niet om het via Git hier weer te plaatsen, dus voor nu maar even ter plekke bewerkt :D
+
+## 17-06-2022 14:55 Auke
+Na diverse foutmeldingen Visual Studio Code opnieuw geinstalleerd en is het toch nog gelukt.
